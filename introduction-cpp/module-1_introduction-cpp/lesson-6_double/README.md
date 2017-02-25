@@ -1,4 +1,4 @@
-## Урок [1.6 Цикл while](https://stepik.org/lesson/Цикл-while-13023)
+## Урок [1.6 Цикл while](https://stepik.org/lesson/Действительные-числа-13024)
 
 ### Step 3.
 
